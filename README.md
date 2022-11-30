@@ -1,1 +1,1 @@
-pwd
+not empty
